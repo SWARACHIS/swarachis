@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/SID_FB_001.gif">
+<img align="right" alt="Coding" width="400" src="https://www.behance.net/gallery/91269521/HOP-Animated-Pack-%28Marketing-Edition%29/modules/528491173">
 
 # 💫 About Me:
 Hi, I’m Swarachis Sutradhar, an aspiring Cybersecurity professional specializing in VAPT, Network Security, and Endpoint Protection. With a background in Electrical and Electronics Engineering and skills in Python, C, and C++, I bring both technical depth and analytical insight to securing digital systems. My goal is to design and protect innovative technologies for a safer, connected world.
