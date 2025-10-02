@@ -1,7 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c8/a6/2c/c8a62c3f14fdf027de13e1755ddd0ec6.gif">
+<img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/SID_FB_001.gif">
 
 # 💫 About Me:
-Hi there! I’m Swarachis Sutradhar, a passionate Electrical and Electronics Engineer with a flair for technology and innovation. My expertise spans <b>IoT systems, Arduino, ESP32, GIS analysis, and embedded systems, complemented by proficiency in Python, C, and C++.
+Hi, I’m Swarachis Sutradhar, an aspiring Cybersecurity professional specializing in VAPT, Network Security, and Endpoint Protection. With a background in Electrical and Electronics Engineering and skills in Python, C, and C++, I bring both technical depth and analytical insight to securing digital systems. My goal is to design and protect innovative technologies for a safer, connected world.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/swarachis.sutradhar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/swarachis_sutradhar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swarachis-sutradhar) 
 
